@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/960/0*41QVp-R2iEIvv06Z.jpg" />
+  </p>
+
 # Minecraft Server Tutorial
 A tutorial on how to make minecraft servers!
 
